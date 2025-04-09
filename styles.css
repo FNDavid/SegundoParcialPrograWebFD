@@ -1,0 +1,15 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  .card img {
+    object-fit: cover;
+    height: 300px;
+  }
+body {
+    background-color: #7ca8d4;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
